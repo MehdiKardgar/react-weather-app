@@ -1,3 +1,4 @@
+// these data come from here
 // https://rapidapi.com/wirefreethought/api/geodb-cities/
 
 export const geoApiOptions = {
@@ -8,4 +9,9 @@ export const geoApiOptions = {
   },
 };
 
-export const GEO_APL_URL = "https://wft-geo-db.p.rapidapi.com/v1/geo";
+export const GEO_API_URL = "https://wft-geo-db.p.rapidapi.com/v1/geo";
+
+// these data come from here
+//  https://openweathermap.org/
+export const WEATHER_API_URL = "https://api.openweathermap.org/data/2.5";
+export const WEATHER_API_KEY = "700222ca54de5db39a6e7d5f5766d79c";
