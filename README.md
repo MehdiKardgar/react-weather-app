@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+<img width="931" alt="Screenshot 2024-01-06 204540" src="https://github.com/MehdiKardgar/react-weather-app/assets/76148286/3e5db008-c655-4634-8919-8f2ad8fc5d9d">
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
