@@ -1,16 +1,38 @@
-# Getting Started with Create React App
 
+
+### `An image of the project`
 <img width="931" alt="Screenshot 2024-01-06 204540" src="https://github.com/MehdiKardgar/react-weather-app/assets/76148286/3e5db008-c655-4634-8919-8f2ad8fc5d9d">
 
+### `A video of the project`
+https://github.com/MehdiKardgar/react-weather-app/assets/76148286/ccdaa763-53a6-4f04-a1dd-56ffa3339e16
 
 
+### `GeoDB Cities API:` (this is the first API)
+[https://rapidapi.com/wirefreethought/api/geodb-cities/](https://rapidapi.com/wirefreethought/api/geodb-cities/)
+
+### `OpenWeather API:` (this is the second API)
+[https://openweathermap.org/](https://openweathermap.org/)
+
+
+
+### `npm i react-accessible-accordion`
+The react-accessible-accordion package is a React component library that provides accessible accordion functionality. An accordion is a UI pattern that allows users to expand or collapse sections of content, usually organized in a list or panel format. This library offers a way to create accordions in React applications while ensuring accessibility for users with disabilities.
+
+### `npm i react-select-async-paginate --force`
+The react-select-async-paginate package is an extension or enhancement to the react-select library, which itself is a highly flexible and customizable dropdown/select component for React applications.
+react-select-async-paginate specifically extends the capabilities of react-select by introducing asynchronous data loading with pagination support. It allows you to fetch options for the select dropdown asynchronously, enabling you to handle large datasets efficiently.
+Using react-select-async-paginate allows developers to create select components that can handle large amounts of data fetched asynchronously, providing a smoother user experience while interacting with dropdowns that contain paginated data. The --force flag is used with npm i to forcefully reinstall or re-download the package, potentially resolving any installation or compatibility issues.
+
+
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+`npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
